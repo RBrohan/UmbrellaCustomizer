@@ -1,8 +1,5 @@
 const uploadButton = document.querySelector(".upload-file");
 const imgUpload = document.querySelector(".img-upload");
-const blue = document.querySelector("[data-blue]");
-const yellow = document.querySelector("[data-yellow]");
-const pink = document.querySelector("[data-pink]");
 
 const umbrellaImage = document.querySelector("[data-image]");
 const imageContainer = document.querySelector(".image-container");
